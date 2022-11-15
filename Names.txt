@@ -1,3 +1,2 @@
 Name : Mahesha A Y
-
-Action : New branch created : feature.
+Action : feature branch created.
